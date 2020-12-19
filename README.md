@@ -1,0 +1,87 @@
+## Welcome to Vinay Kumar Yadav github resume!
+
+### Introduction :
+Hi! I'm Vinay Kumar Yadav .Basically I am from Varanasi and currently lived in Pune
+I did my 10<sup>th</sup> and 12<sup>th</sup> from UP Board. I have Completed my Graduation from Mahatma Gandhi Kashi Vidyapith from varanasi.
+And Currently I Persued my MCA from MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOGY BHOPAL (MANIT) with 8.2 cgpa.
+
+
+# Technology Stack
+
+## Frontend 
+ 
+
+ - HTML5
+ - CSS3 
+ - Javascript
+ - Bootstrap
+ 
+ ## Backend
+
+ - Java
+ - Node
+
+ ## Framework
+ - Express
+
+ ## Database 
+ - MongoDB
+ - Mysql
+
+ ## Code Hosting Plateform - Version Control
+ 
+ - Github
+
+
+
+**I can work as a freelancer**
+
+ - Please Contact me, whatsapp-9554532676, 
+ - Email - vasuvinay246@gmail.com
+
+ 
+## Projects
+
+### Certificate Generator
+
+-   It is a Web Application to generate certificate on the basis of student attendence management.
+-   it can work offline with the help of sercice worker
+-   Language used: HTML ,CSS ,Bootstarp, JS, Java
+
+### My Arrange
+
+-   It is a web based application to get the information of the shop on the basis of location and category on a particular Area
+-   Language used:HTML,CSS,JS, Java, Bootstrap
+
+
+## CERTIFICATE AND ACHIEVEMENTS
+-   Software Engineering virtual Experience by JP Morgan chase&co -26 May 2020
+-   Introduction to Python from DataCamp
+-   SQL BootCamp from DataCamp
+-   Joining SQL from DataCamp
+-   Undergraduate and Masters virtual internship platform by Microsoft -25 june 2020
+
+## EDUCATION
+|Degree                |Board|Percentage/CGPA|
+|----------------|-------------------------------|-----------------------------|
+|10<sup>th</sup>|`UP`            |71.3%            |
+|12<sup>th</sup>|`UP`            |67.2%            |
+|BCA (2016)         |`Mahtma Gandhi Kashi Vidyapeeth Varanasi`|67.8%|
+|MCA(2021)|`Maulana Azad National Institute Of Technology Bhopal`|8.2 cgpa|
+
+##  CONTACTS
+
+Email-[Mail-vasuvinay246@gmail.com](mailto:vasuvinay246@gmail.com)
+
+LinkedIn - [Linkedin-https://www.linkedin.com/in/vinay-yadav-742aa018b/](https://www.linkedin.com/in/vinay-yadav-742aa018b/)
+
+Github - [Github  https://github.com/VASUVINAY](https://github.com/VASUVINAY)
+
+
+## Area of interest and life Goals
+
+-   Back-End Developer
+-   Software developer
+-   Competitive Coder
+
+
