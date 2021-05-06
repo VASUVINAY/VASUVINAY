@@ -34,7 +34,6 @@ And Currently I Persued my MCA from MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOG
 
 
 
-**I can work as a freelancer**
 
  - Please Contact me, whatsapp-9554532676, 
  - Email - vasuvinay246@gmail.com
