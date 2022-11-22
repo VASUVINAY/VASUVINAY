@@ -1,7 +1,7 @@
 ## Welcome to Vinay Kumar Yadav github resume!
 
 ### Introduction :
-Hi! I'm Vinay Kumar Yadav .Basically I am from Varanasi and currently lived in Pune
+Hi! I'm Vinay Kumar Yadav .Basically I am from Varanasi and currently working in AMDOCS as a Software Developer.
 I did my 10<sup>th</sup> and 12<sup>th</sup> from UP Board. I have Completed my Graduation from Mahatma Gandhi Kashi Vidyapith from varanasi.
 And Currently I Persued my MCA from MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOGY BHOPAL (MANIT) with 8.2 cgpa.
 
@@ -20,6 +20,9 @@ And Currently I Persued my MCA from MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOG
 
  - Java
  - Node
+ - CPP
+ - C
+ - SCRIPT
 
  ## Framework
  - Express
@@ -52,8 +55,13 @@ And Currently I Persued my MCA from MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOG
 -   It is a web based application to get the information of the shop on the basis of location and category on a particular Area
 -   Language used:HTML,CSS,JS, Java, Bootstrap
 
+### Ecommerce
+
+-   Searching through a catalog of products is now easier than ever. In this category ,we applied some of better way to fetch the products details in a single page.
+-   Language used: Nodejs ,javascript
 
 ## CERTIFICATE AND ACHIEVEMENTS
+-   AWS Certified Cloud Practitioner by AWS (06/2021 - 06/2024)
 -   Software Engineering virtual Experience by JP Morgan chase&co -26 May 2020
 -   Introduction to Python from DataCamp
 -   SQL BootCamp from DataCamp
